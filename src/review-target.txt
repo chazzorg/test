@@ -1,0 +1,8 @@
+Review target: sample branch A
+
+This file represents a low-risk documentation-like content change.
+
+Expected reviewer notes:
+- Plain text only.
+- No executable behavior.
+- Small change size.

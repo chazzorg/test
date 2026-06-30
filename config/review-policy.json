@@ -1,0 +1,9 @@
+{
+  "riskLevel": "low",
+  "autoMergeCandidate": true,
+  "maxChangedLines": 80,
+  "notes": [
+    "Branch A is intended to look safe for automated review tests.",
+    "Use this branch to verify low-risk scoring paths."
+  ]
+}
