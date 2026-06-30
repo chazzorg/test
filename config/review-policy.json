@@ -1,0 +1,9 @@
+{
+  "riskLevel": "medium",
+  "autoMergeCandidate": false,
+  "maxChangedLines": 200,
+  "notes": [
+    "Branch B is intended to exercise cautious review paths.",
+    "The scripts directory should be noticed by path-sensitive checks."
+  ]
+}
