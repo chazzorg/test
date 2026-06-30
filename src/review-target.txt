@@ -1,0 +1,8 @@
+Review target: sample branch B
+
+This file represents a higher-signal change for review tests.
+
+Expected reviewer notes:
+- Includes a script path in the same branch.
+- Uses a different risk policy from branch A.
+- Should not be treated as an auto-merge candidate.
